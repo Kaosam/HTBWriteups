@@ -1,6 +1,7 @@
 # Hack The Box Writeups
-Hi, in this repository you can find my writeups for Hack The Box machines.
-The pdf documents are protected with the root flag of each challenge, and they are available in two different languages, Italian and English version.
+In this repository you can find my writeups for Hack The Box machines.
+If the machines are old, pdf files are encrypted with root flag. For the new machine, since March 2020 (see new HTB rules), they are protected with Administrator hash (Windows) or root hash (Linux).
+They are available in two different languages, Italian and English version.
 
 # Contact me
 If you have any problem or questions write me an email: piatanesi.samuel@gmail.com
