@@ -6,6 +6,4 @@ For more details check my site
 https://samuelpiatanesi.altervista.org/hackthebox.php
 
 # Contact me
-If you have any problem or questions write me an email: piatanesi.samuel@gmail.com
-
 Twitter: https://twitter.com/samuelpiatanesi
